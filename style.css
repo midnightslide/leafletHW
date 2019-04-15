@@ -1,0 +1,29 @@
+/* remove default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* set map, body, and html to 100% of the screen size */
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.circle {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background: #fff;
+  color: #fff;
+  display: inline-block;
+}
+
+.legend {
+  font-weight: bold;
+  border: 1px solid #fff;
+  padding: 5px 8px 5px 8px;
+  border-radius: 3px;
+  background: 
+}
